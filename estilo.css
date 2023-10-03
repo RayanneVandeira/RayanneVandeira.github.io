@@ -1,0 +1,10 @@
+
+
+.foto_perfil{
+    position: absolute; /* Define a imagem como absoluta para posicioná-la livremente */
+    top: 10px; /* Ajusta a posição verticalmente (topo) */
+    right: 10px; /* Ajusta a posição horizontalmente (direita) */
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; /* Para criar uma imagem circular */
+}
